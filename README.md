@@ -1,21 +1,20 @@
-# ⚡ System Login: [Nama Anda]... ACCESS GRANTED ⚡
+# [Nama Anda]
+**[Profesi Anda]** | **[Bidang Keahlian, misal: UI/UX & Frontend]**
 
-**`> Role : [Profesi, misal: Backend Developer]`**  
-**`> Base : [Lokasi, misal: Jakarta, ID]`**  
+Saya seorang pengembang perangkat lunak yang berdedikasi untuk menciptakan pengalaman digital yang intuitif dan skalabel. Saya percaya bahwa kode yang baik tidak hanya berfungsi, tetapi juga mudah dibaca dan dipelihara.
 
-Menulis kode yang bersih, membangun arsitektur digital, dan memecahkan masalah di tengah kekacauan dunia maya.
+**Aktivitas Saat Ini**
+* Mengembangkan **[Nama Proyek]** - *[Deskripsi singkat proyek]*
+* Mempelajari arsitektur **[Teknologi, misal: Microservices]**
 
-**`> ./status.sh`**
-* `[⚙️] Executing:` Fokus pada pengembangan **[Nama Proyek Anda]**
-* `[🔋] Loading_Skills:` Sedang mendalami **[Teknologi, misal: Rust & Web3]**
-* `[🤝] Network_Ping:` Terbuka untuk kolaborasi proyek **[Jenis Proyek]**
-* `[📫] Contact_Protocol:` Ping saya di **[Email atau LinkedIn]**
+**Tech Stack**
+`JavaScript` • `TypeScript` • `React` • `TailwindCSS` • `Node.js` • `Git`
 
-**`> ./tech-stack.sh`**
-* **Core:** JavaScript, TypeScript, Python
-* **Frameworks:** React, Next.js, Express
-* **Database & Ops:** PostgreSQL, MongoDB, Docker
+**Mari Terhubung**
+[LinkedIn](Link-LinkedIn-Anda) • [Twitter](Link-Twitter) • [Portfolio/Blog](Link-Web-Anda)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=synthwave&hide_border=true" alt="Cyberpunk Stats" />
+---
+<div align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Aswad129&show_icons=true&theme=transparent&hide_border=true" alt="Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswad129&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
 </div>
