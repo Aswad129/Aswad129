@@ -1,20 +1,20 @@
-# [Nama Anda]
-**[Profesi Anda]** | **[Bidang Keahlian, misal: UI/UX & Frontend]**
+# Hai, Saya [Nama Asli Anda]! 👋
+**[Profesi Anda, misal: Web Developer]** | **[Fokus Keahlian, misal: Frontend & UI/UX]**
 
 Saya seorang pengembang perangkat lunak yang berdedikasi untuk menciptakan pengalaman digital yang intuitif dan skalabel. Saya percaya bahwa kode yang baik tidak hanya berfungsi, tetapi juga mudah dibaca dan dipelihara.
 
 **Aktivitas Saat Ini**
-* Mengembangkan **[Nama Proyek]** - *[Deskripsi singkat proyek]*
-* Mempelajari arsitektur **[Teknologi, misal: Microservices]**
+* 🔭 Mengembangkan **[Nama Proyek Anda]** - *[Deskripsi singkat proyek]*
+* 🌱 Mempelajari arsitektur **[Teknologi, misal: React dan TailwindCSS]**
 
 **Tech Stack**
-`JavaScript` • `TypeScript` • `React` • `TailwindCSS` • `Node.js` • `Git`
+`JavaScript` • `HTML/CSS` • `React` • `TailwindCSS` • `Node.js` • `Git`
 
 **Mari Terhubung**
-[LinkedIn](Link-LinkedIn-Anda) • [Twitter](Link-Twitter) • [Portfolio/Blog](Link-Web-Anda)
+[LinkedIn](Masukkan-Link-LinkedIn-Anda-Disini) • [Twitter](Masukkan-Link-Twitter-Anda-Disini) • [Portfolio/Blog](Masukkan-Link-Web-Anda-Disini)
 
 ---
 <div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Aswad129&show_icons=true&theme=transparent&hide_border=true" alt="Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswad129&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aswad129&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats Aswad129" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswad129&layout=compact&theme=transparent&hide_border=true" alt="Top Languages Aswad129" />
 </div>
