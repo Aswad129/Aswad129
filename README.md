@@ -1,1 +1,1 @@
-[![ASCII IF Lab](https://ascii.web.id/api/widget/2509106118.svg?theme=dark)](https://ascii.web.id)
+[![ASCII IF Lab](https://ascii.web.id/api/widget/2509106118.svg?theme=dark&type=discord)](https://ascii.web.id)
