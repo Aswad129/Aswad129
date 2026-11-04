@@ -11,7 +11,7 @@
 </p>
 
 ```bash
-┌──(hajar@github)-[~]
+┌──(Aswad129@github)-[~]
 └─$ whoami
 
 Muhammad Hajar Aswad
@@ -25,7 +25,7 @@ Informatics Student | Aspiring Software Developer
 > Learning something new every day.
 > Turning ideas into functional applications.
 
-┌──(hajar@github)-[~]
+┌──(Aswad129@github)-[~]
 └─$ _
 ```
 
