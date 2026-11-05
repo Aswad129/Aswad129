@@ -15,15 +15,7 @@
 └─$ whoami
 
 Muhammad Hajar Aswad
-Informatics Student | Aspiring Software Developer
-
-┌──(hajar@github)-[~]
-└─$ cat about.txt
-
-> Passionate about programming and technology.
-> Exploring software development.
-> Learning something new every day.
-> Turning ideas into functional applications.
+Informatics Student
 
 ┌──(Aswad129@github)-[~]
 └─$ _
@@ -35,9 +27,6 @@ Informatics Student | Aspiring Software Developer
   <img src="https://img.shields.io/badge/Java-00FF41?style=for-the-badge&logo=openjdk&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00FF41?style=for-the-badge&logo=cplusplus&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-00FF41?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-00FF41?style=for-the-badge&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-00FF41?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-00FF41?style=for-the-badge&logo=mysql&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=black" />
 </p>
@@ -55,20 +44,12 @@ Informatics Student | Aspiring Software Developer
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=888888" />
 </p>
 
-## `> CURRENT_MISSION`
 
-```bash
-[+] Mastering Programming Fundamentals
-[+] Building Software Projects
-[+] Learning Database Management
-[+] Improving Problem Solving Skills
-[ ] Becoming a Professional Developer
-```
 
 ## `> CONNECT_WITH_ME`
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Aswad129">
     <img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
