@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-00FF41?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MODE-LEARNING-00FF41?style=flat-square&labelColor=000000" />
 </p>
 
 
